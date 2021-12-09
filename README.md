@@ -1,6 +1,3 @@
-
-
-	
 	
 	#Livro de receitas
 	
